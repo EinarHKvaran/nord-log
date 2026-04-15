@@ -278,7 +278,7 @@ Skemmtanastjóri skal, í samráði við stjórn félagsins, sjá um skipulagnin
 Hann skal verða meðstjórnandi og sitja stjórnarfundi. Hann er trúnaðarmaður nemenda varðandi námið og fær aðgang að kennslukönnuninni fyrir hönd tölvunar- og hugbúnaðarverkfræðinema. Hann situr sem deildarfulltrúi. Hann skal halda fund með deildarformanni helst mánaðarlega og ekki seinna en á tveggja mánaða fresti og fara yfir stöðu kennslu og hagsmunamálefni nemenda. Hann skal sitja fyrir hönd félagsins deilda- og deildarráðsfundi, sviðsráðsfundi sem og aðra fundi sem hann er skipaður í, í bróðerni við önnur félög innan deildar Iðnaðarverkfræði, vélaverkfræði og Tölvunarfræði (IVT). Hagsmunafulltrúi skal fá sér aðgang að fjárhagsstöðu félagsins frá gjaldkera. Hagsmunafulltrúi skal vera fulltrúi Nörd í árshátíðarnefnd FV.
 
 ### Upplýsingafulltrúi
-Hann skal hafa yfirsýn yfir öllum samfélagsmiðlum nemendafélagsins Nörd og þjóna sem grafískur hönnuður nemendafélagsins. Hann sér um helstu samskipti við hirðljósmyndara Nörd. Hann má tilnefna viljuga félaga til að leggja til efni á samfélagsmiðla (t.d. snappari kvöldsins). Einnig skal hann sjá um að setja auglýsingar og efni frá styrktaraðilum og samstarfsaðilum Nörd inn á miðlana. Upplýsingarfulltrúi sýnir ímynd Nörd út á við og ber því skylda að sýna hana með sóma. Upplýsingafulltrúi skal hafa yfirumsjón með Ofurnörd ásamt Tvíund.
+Hann skal hafa yfirsýn yfir öllum samfélagsmiðlum nemendafélagsins Nörd og þjóna sem grafískur hönnuður nemendafélagsins. Hann sér um helstu samskipti við hirðljósmyndara Nörd. Hann má tilnefna viljuga félaga til að leggja til efni á samfélagsmiðla (t.d. snappari kvöldsins). Einnig skal hann sjá um að setja auglýsingar og efni frá styrktaraðilum og samstarfsaðilum Nörd inn á miðlana. Upplýsingarfulltrúi sýnir ímynd Nörd út á við og ber því skylda að sýna hana með sóma. Upplýsingafulltrúi skal hafa yfirumsjón með Ofurnörd ásamt Tvíund. Upplýsingafulltrúi má skipa afmarkaða upplýsinganefnd sem hann jafnframt ræður yfir.
 
 ### Nýnemafulltrúi
 Hann skal í samstarfi við stjórnina, sjá um kynningu á störfum félagsins fyrir 1.árs nemum. Hann skal einnig vera tengiliður 1.árs nema við stjórn félagsins. Kosið skal um þetta embætti eins fljótt og auðið er á hverju ári. Stjórn er heimilt að víkja 1. árs fulltrúa frá störfum að undangenginni viðvörun telji stjórnin hann ekki sinna hlutverki sínu. Stjórn skipar þá nýjan fulltrúa eins fljótt og auðið er.
@@ -322,6 +322,10 @@ Nefndin skal í samráði við stjórn gera kynningarmyndband á tölvunarfræð
 
 ### Skemmtinefnd
 Nefndin skal í samráði við stjórn skipuleggja lön, spilakvöld eða aðra svipaða viðburði. Nefndin má jafnframt hvenær sem er yfir skólaárið óska eftir að halda slíkan viðburð með samþykki aðalstjórnar. Í nefndinni skal einnig sitja Bíóstjóri. Hlutverk Bíóstjórans er að sjá um vikuleg bíókvöld sem eru haldin á þriðjudögum og er viðstaddur. Ef svo kynni að Bíóstjóri sé fjarverandi, má Bíóstjóri hafa samband við aðilana í skemmtinefnd sem leysir Bíóstjóran af. 
+
+### Upplýsinganefnd
+
+Nefndin skal skal í samráði upplýsingafulltrúa hafa yfirsýn yfir afmörkuðum samfélagsmiðlum nemendafélagsins Nörd og aðstoða upplýsingafulltrúa í hans störfum. Nefndin má tilnefna viljuga félaga til að leggja til efni á samfélagsmiðla (t.d. snappari kvöldsins). Einnig skal nefndin sjá um að setja auglýsingar og efni frá styrktaraðilum og samstarfsaðilum Nörd inn á miðlana. Upplýsinganefnd sýnir ímynd Nörd út á við og ber upplýsingafulltrúa því skylda að þau sýna hana með sóma.
  
 # 10. gr. Hvenær ný embætti taka gildi
 
@@ -348,6 +352,8 @@ Stjórn nemendafélagsins er heimilt að kalla saman miðstjórn. Miðstjórn sa
 - Alþjóðafulltrúa, 
 - Hirðljósmyndurum, 
 - Kynningarnefnd, 
+- Upplýsinganefnd,
+- Skemmtinefnd,
 - forseta Myndbandanefndar 
 
 ##    2. mgr. Meðlimaskylda
